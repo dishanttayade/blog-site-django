@@ -1,4 +1,4 @@
 # blog-site-django
-This website is for blogging.
-You can post blogs and read other user's blogs with a good looking interface.
+This website is for blogging with a very nice user interface.
+You can post blogs and read other user's blogs.
 Feel free to contribute.
